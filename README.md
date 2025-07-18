@@ -3,12 +3,12 @@
 Open-source quantitative finance API for analytics, research, and prototyping.  
 **For informational purposes only. Not financial advice.**
 
-## 🚀 What is this?
+## What is this?
 
 The Troyonix Quant API provides easy, programmatic access to classic quantitative trading strategies via a modern REST API.  
 It is designed for wealth managers, financial analysts, researchers, and developers who want to analyze price data and generate trading signals—without reinventing the wheel.
 
-## ✨ Features
+## Features
 
 - Moving Average Crossover endpoint
 - RSI (Relative Strength Index) endpoint
@@ -16,7 +16,7 @@ It is designed for wealth managers, financial analysts, researchers, and develop
 - Health check endpoint at `/health`
 - Open source, extensible, and ready for production use
 
-## 🛠️ Quickstart
+## Quickstart
 
 ```bash
 # Install dependencies
@@ -63,7 +63,7 @@ Returns `{ "status": "ok" }` if the API is running.
 }
 ```
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 For informational purposes only. Not financial advice.  
 Use at your own risk.
